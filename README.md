@@ -1,6 +1,5 @@
 <h1 align="center">Clipvault</h1>
 
-<p align="center">Clipboard history manager for Wayland, inspired by <a href="https://github.com/sentriz/cliphist">cliphist</a></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-AGPL_v3-green.svg" alt="License: AGPL v3" />
